@@ -59,6 +59,7 @@
 	<button type="button" id="logout">로그아웃</button>
 	<button type="button" id="pwdcheck">정보수정</button>
 	<button type="button" id="leave">회원탈퇴</button>
+	<button type="button" id="moobin">무빈</button>
 <%-- <%} %> --%>
 	<a href ="http://www.naver.com">네이버</a>
 </c:if>
