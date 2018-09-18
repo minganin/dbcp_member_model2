@@ -3,7 +3,8 @@ package action;
 public class ActionForward {
 	private String path;
 	private boolean redirect;
-	
+	private int a = 1;
+
 	public ActionForward() {
 		super();		
 	}
